@@ -4,4 +4,4 @@ This webapp uses Google Maps' visualization tools to display car accidents from 
 
 This webapp is built using PHP, JavaScript, HTML, CSS, MySQL, and JQuery. 
 
-
+https://user-images.githubusercontent.com/37818200/117522074-f072f700-af76-11eb-97ca-5c69743f63f4.mp4 
